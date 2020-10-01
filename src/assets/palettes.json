@@ -1,0 +1,12 @@
+{ 
+    "palettes": [
+        {
+            "title": "dark",
+            "color": [
+                {
+                    "hex": "#000"
+                }
+            ]
+        }
+    ]
+}
